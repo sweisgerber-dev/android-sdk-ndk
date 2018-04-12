@@ -2,6 +2,11 @@
 
 Docker image for building android apps with the SDK & NDK.
 
+> By using this image, you silently agree to all of Android's SDK & NDK licence,
+> because of the automated installation mechanism that is used in this script
+>
+> [More Information](https://developer.android.com/studio/terms.html)
+
 Contains:
  
 - SDK API-Levels 21-27
