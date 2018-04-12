@@ -78,8 +78,4 @@ ENV PATH="$PATH:${ANDROID_HOME}/platform-tools/"
 ENV PATH="$PATH:${ANDROID_HOME}/tools"
 ENV PATH="$PATH:${ANDROID_HOME}/tools/bin"
 
-
-#export PATH=/home/weisgerber/bin/android-sdk/build-tools/21.0.1/:/home/weisgerber/bin/android-sdk/tools/:/home/weisgerber/bin/android-sdk/platform-tools/:/home/weisgerber/bin/:$PATH
-
-
 CMD [ "bash" ]
