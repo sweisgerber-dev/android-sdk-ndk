@@ -12,15 +12,13 @@ Contains:
 
 See [Dockerfile](Dockerfile) for details
 
-# Docker Hub
-
-[sweisgerber/android-sdk-ndk](https://hub.docker.com/r/sweisgerber/android-sdk-ndk/)
+# Docker Hub: [sweisgerber/android-sdk-ndk](https://hub.docker.com/r/sweisgerber/android-sdk-ndk/)
 
 ``` bash
 docker pull sweisgerber/android-sdk-ndk
 ```
 
-# ENVIRONENT Variables
+# ENVIRONMENT Variables
 
 - `ANDROID_SDK_MAX="27"`
 - `ANDROID_SDK_MIN="21"`
